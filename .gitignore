@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+###
+
+backend/data/places.json
+backend/data/user-places.json
